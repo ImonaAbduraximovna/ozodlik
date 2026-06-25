@@ -1,5 +1,6 @@
 [build]
   command = "npm run build"
+  publish = ".next"
 
 # Netlify Next.js runtime'ni avtomatik yoqadi (App Router + API route'lar uchun)
 [[plugins]]
