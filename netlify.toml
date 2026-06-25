@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+
+# Netlify Next.js runtime'ni avtomatik yoqadi (App Router + API route'lar uchun)
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[build.environment]
+  NODE_VERSION = "20"
