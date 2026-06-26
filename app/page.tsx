@@ -588,7 +588,7 @@ export default function Home() {
       {/* KIMLAR UCHUN */}
       <section className="kimlar-uchun">
         <div className="container">
-          <p className="kichik-yozuv">Сиз учун</p>
+          <p className="kichik-yozuv"></p>
           <h2 className="bolim-sarlavha">КИМЛАР УЧУН?</h2>
           <div className="oltin-chiziq"></div>
 
@@ -931,7 +931,7 @@ export default function Home() {
               <li><i className="fa-solid fa-check"></i> 10 кунлик трансформацион дастур</li>
               <li><i className="fa-solid fa-check"></i> Авиабилет (Тошкент — Батуми — Тошкент)</li>
               <li><i className="fa-solid fa-check"></i> Барча трансферлар</li>
-              <li><i className="fa-solid fa-check"></i> 5 юлдузли отелда яшаш</li>
+              <li><i className="fa-solid fa-check"></i> 4 юлдузли отелда яшаш</li>
               <li><i className="fa-solid fa-check"></i> Кунлик нонушталар</li>
               <li><i className="fa-solid fa-check"></i> Тиббий суғурта</li>
               <li><i className="fa-solid fa-check"></i> Иштирок сертификати</li>
